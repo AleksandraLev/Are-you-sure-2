@@ -48,6 +48,33 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/**/Binaries/*
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Temporary and cache files
+*.log
+*.vs
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Unreal specific
+*.uasset
+*.umap
+
+# Ignore user-specific settings
+*.sln
+*.xcodeproj
+*.xcworkspace
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
 
 # Builds
 Build/*
