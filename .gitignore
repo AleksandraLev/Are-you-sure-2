@@ -63,10 +63,6 @@ Intermediate/
 Saved/
 Build/
 
-# Unreal specific
-*.uasset
-*.umap
-
 # Ignore user-specific settings
 *.sln
 *.xcodeproj
